@@ -18,12 +18,14 @@ let g:colors_name="lighttouch"
 "
 " #000000 black
 " #ffffff white
-" #c4c4c4 light grey
 " #fcfa53 yellow
+" #deeefc light blue
+" #e8fcde light green
+" #c4c4c4 light grey
 " #f3d3ff light purple
+" #fcd39f light orange
 " #fefaff very light purple
 " #fcfce9 very light yellow
-" #fcd39f very light orange
 
 highlight Annotation     guifg=#c4c4c4  guibg=#ffffff gui=italic cterm=italic
 highlight Character      guifg=#000000  guibg=#ffffff gui=italic cterm=italic
