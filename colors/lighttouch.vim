@@ -36,6 +36,10 @@ highlight Constant       guifg=#000000  guibg=#ffffff gui=NONE   cterm=NONE
 highlight CursorLine     guifg=#000000  guibg=#fcfce9 gui=NONE   cterm=NONE
 highlight CursorLineNr   guifg=NONE     guibg=#fcfce9 gui=bold   cterm=bold
 highlight Decorator      guifg=#c4c4c4  guibg=#ffffff gui=NONE   cterm=NONE
+highlight DiffAdd        guifg=NONE     guibg=#e8fcde gui=NONE   cterm=NONE
+highlight DiffDelete     guifg=NONE     guibg=#fcd39f gui=NONE   cterm=NONE
+highlight DiffChange     guifg=NONE     guibg=#deeefc gui=NONE   cterm=NONE
+highlight DiffText       guifg=NONE     guibg=#e8fcde gui=bold   cterm=bold
 highlight Directory      guifg=#000000  guibg=#ffffff gui=italic cterm=italic
 highlight Error          guifg=NONE     guibg=#fcd39f gui=italic cterm=italic
 highlight ErrorMsg       guifg=NONE     guibg=#fcd39f gui=NONE   cterm=NONE
