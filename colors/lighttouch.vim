@@ -68,6 +68,7 @@ highlight Special        guifg=#000000  guibg=#fefaff gui=bold   cterm=bold
 highlight SpecialChar    guifg=#000000  guibg=#fefaff gui=NONE   cterm=NONE
 highlight SpecialComment guifg=#c4c4c4  guibg=#ffffff gui=italic cterm=italic
 highlight Statement      guifg=#000000  guibg=#ffffff gui=NONE   cterm=NONE
+highlight StatusLine     guifg=#000000  guibg=#fefaff gui=BOLD   cterm=BOLD
 highlight String         guifg=#000000  guibg=#fefaff gui=NONE   cterm=NONE
 highlight Tag            guifg=#c4c4c4  guibg=#ffffff gui=italic cterm=italic
 highlight Title          guifg=#000000  guibg=#fefaff gui=italic cterm=italic
