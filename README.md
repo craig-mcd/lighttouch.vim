@@ -12,6 +12,8 @@ Aims are:
 
 Yes, some people do like light themes in $current_year.
 
-> There are dozens of us ... DOZENS!
+> There are dozens of us ... DOZENS!\
 > -- Tobias Fünke
+
+![lighttouch in action](doc/in-action.png)
 
